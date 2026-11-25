@@ -1,0 +1,82 @@
+[
+  {
+    "id": "summit-insulated-mug",
+    "name": "Summit Insulated Trail Mug",
+    "price": 24,
+    "category": "Drinkware",
+    "description": "A 12 oz double-wall stainless steel mug with a slide-lock lid. Keeps coffee hot for about 5 hours and fits most car cup holders. Dishwasher safe.",
+    "image": "https://placehold.co/600x400/1F3A2E/F5F7F4?text=Summit"
+  },
+  {
+    "id": "ridgeline-daypack",
+    "name": "Ridgeline 22L Daypack",
+    "price": 89,
+    "category": "Packs",
+    "description": "A lightweight daypack with a padded laptop sleeve, hydration bladder port, and water-resistant recycled nylon shell. Ideal for day hikes and commuting.",
+    "image": "https://placehold.co/600x400/2E4A3D/F5F7F4?text=Ridgeline"
+  },
+  {
+    "id": "emberline-camp-stove",
+    "name": "Emberline Compact Camp Stove",
+    "price": 64.5,
+    "category": "Cooking",
+    "description": "A folding single-burner canister stove that boils a liter of water in about 4 minutes. Weighs 3.2 oz and packs into its own pouch.",
+    "image": "https://placehold.co/600x400/3B5B4C/F5F7F4?text=Emberline"
+  },
+  {
+    "id": "birchwood-cutting-board",
+    "name": "Birchwood Camp Cutting Board",
+    "price": 32,
+    "category": "Cooking",
+    "description": "A folding cutting board made from sustainably harvested birch with a juice groove. Folds in half to slide into a pack or kitchen drawer.",
+    "image": "https://placehold.co/600x400/4A6B5A/F5F7F4?text=Birchwood"
+  },
+  {
+    "id": "lumen-headlamp",
+    "name": "Lumen 400 Rechargeable Headlamp",
+    "price": 42,
+    "category": "Lighting",
+    "description": "A 400-lumen USB-C rechargeable headlamp with a red night-vision mode and a lock-out switch so it never turns on in your bag. Lasts up to 40 hours on low.",
+    "image": "https://placehold.co/600x400/1F3A2E/F5F7F4?text=Lumen"
+  },
+  {
+    "id": "drift-down-blanket",
+    "name": "Drift Packable Down Blanket",
+    "price": 129,
+    "category": "Sleep",
+    "description": "A 650-fill responsibly sourced down blanket that packs down to the size of a water bottle. Warm enough for cool summer nights by the fire.",
+    "image": "https://placehold.co/600x400/2E4A3D/F5F7F4?text=Drift"
+  },
+  {
+    "id": "canopy-hammock",
+    "name": "Canopy Two-Person Hammock",
+    "price": 58,
+    "category": "Sleep",
+    "description": "A parachute-nylon hammock rated to 400 lbs, with tree-friendly straps included. Sets up in under two minutes with no knots needed.",
+    "image": "https://placehold.co/600x400/3B5B4C/F5F7F4?text=Canopy"
+  },
+  {
+    "id": "trailmix-bottle",
+    "name": "Trailmix 1L Filter Bottle",
+    "price": 39,
+    "category": "Drinkware",
+    "description": "A squeeze water bottle with a built-in filter that removes 99.9% of bacteria and protozoa. Each filter cartridge lasts about 1,000 liters.",
+    "image": "https://placehold.co/600x400/4A6B5A/F5F7F4?text=Trailmix"
+  },
+  {
+    "id": "fieldnotes-journal",
+    "name": "Fieldnotes Waterproof Journal",
+    "price": 16,
+    "category": "Accessories",
+    "description": "A pocket-sized notebook with waterproof stone paper pages that you can write on in the rain with any ballpoint pen. 64 pages, dot grid.",
+    "image": "https://placehold.co/600x400/1F3A2E/F5F7F4?text=Fieldnotes"
+  },
+  {
+    "id": "granite-cast-skillet",
+    "name": "Granite 10-inch Cast Iron Skillet",
+    "price": 48,
+    "category": "Cooking",
+    "description": "A pre-seasoned cast iron skillet that works on a campfire, grill, or home stovetop. Heavy, durable, and gets better with every use.",
+    "image": "https://placehold.co/600x400/2E4A3D/F5F7F4?text=Granite"
+  }
+]
